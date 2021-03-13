@@ -25,7 +25,7 @@ const client = new ApolloClient({
       // if (networkError) console.log(`[Network error]: ${networkError}`);
     }),
     new HttpLink({
-      uri: "http://192.168.0.97:4000",
+      uri: "(db url)",
       credentials: "same-origin"
     })
   ]),
