@@ -1,0 +1,21 @@
+
+.tr:nth-child(even) { 
+  background-color: #bbe9a9; 
+} 
+
+.th, td { 
+  text-align: center; 
+  padding: 8px;
+} 
+
+.thead {
+  background-color:#cccccc94;
+  font-size: large;
+  font-weight: bolder;
+}
+
+.button {
+  border: 1px solid red;
+  padding: 3px;
+}
+

@@ -1,0 +1,12 @@
+.tr:nth-child(even) { 
+  background-color: Lightgreen; 
+} 
+
+.th, td { 
+  text-align: left; 
+  padding: 8px; 
+} 
+
+.modal-item button {
+  border: 1px solid red;
+}
